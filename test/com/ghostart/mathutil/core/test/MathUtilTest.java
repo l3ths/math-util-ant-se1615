@@ -59,9 +59,9 @@ public class MathUtilTest {
         Assert.assertEquals(10, 10);
     }
     
-    @Test
-    public void testRed(){
-        Assert.assertEquals(10, 100);//em hi vong tra ve 10 => thuc te k la 10 -> do
-    }
-    
+//    @Test
+//    public void testRed(){
+//        Assert.assertEquals(10, 100);//em hi vong tra ve 10 => thuc te k la 10 -> do
+//    }
+//    
 }
